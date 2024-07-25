@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou o Henri
+- 👋 Olá, Eu sou o Henry
 - 🌱 Atualmente estou aprendendo a programar em Java ...
 
 <!---
